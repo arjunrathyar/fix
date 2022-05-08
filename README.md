@@ -1,7 +1,7 @@
 # Fix
 
 <p align="center">
-A Discord bot made using python and discord API using chatterbot. 
+A Discord bot using python and chatterbot. 
 </p>
 
 <hr>
