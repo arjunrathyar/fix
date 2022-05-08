@@ -1,6 +1,9 @@
 # Fix
+<center>
+A Discord bot made using python and discord API using chatterbot. 
+</center>
 
-A simple discord bot made using python and discord API. 
+<hr>
 
 ## Demo
 
