@@ -1,7 +1,8 @@
 # Fix
-<center>
+
+<p align="center">
 A Discord bot made using python and discord API using chatterbot. 
-</center>
+</p>
 
 <hr>
 
